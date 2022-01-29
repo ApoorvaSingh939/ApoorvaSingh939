@@ -5,7 +5,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 🌱 &nbsp;Exploring cloud technologies and application development. <br>
 😁 &nbsp;A bit enthusiast towards web development.<br>
-👀 &nbsp;Always curious to lean cutting edge technology.<br>
+👀 &nbsp;Always curious to learn cutting edge technology.<br>
 🦾 &nbsp;Programmer: A machine that turns coffee into code.<br>
 
 🛠️ Tech Stack<br>
